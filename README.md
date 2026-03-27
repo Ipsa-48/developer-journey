@@ -3,7 +3,7 @@
 An interactive and humorous web experience that gamifies the journey of becoming a developer.
 
 ## 🌐 Live Demo
-(Add your Netlify link here)
+developer-journey-ipsa.netlify.app
 
 ## 💡 Features
 - Level-based developer journey
